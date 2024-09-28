@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:purple;
+}
+.box {
+    height: 40vh;
+    width: 50vh;
+    display: flex;
+    text-align: center;
+}
+ .box.left{
+    flex: 2;
+    flex-direction: column;
+}
+.left .orange{
+    flex: 1;
+    background-color: orange;
+    justify-content: center;
+    align-items: center;
+}
+.left .blue{
+    flex: 1;
+    background-color: blue;
+    justify-content: center;
+    align-items: center;
+
+}
+.right{
+    flex: 2;
+    display: flex;
+    flex-direction: row;
+}
+.right .red{
+    flex: 1;
+    background-color: red;
+    display: flex;
+    align-items: center;
+}
+.right .green{
+    flex: 1;
+    background-color: green;
+    display: flex;
+    align-items: center;
+}
+.box{
+    display: flex;
+    text-align: center;
+}
+.left .orange[
+    
+]

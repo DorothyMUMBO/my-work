@@ -1,0 +1,48 @@
+.body{
+    height: 600px;
+}
+.top{
+    background-color: orange;
+    width: 700px;
+    height: 30px;
+}
+.top1{
+    height: 35px;
+}
+.middle{    
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    width: 700px
+}
+.left{
+    background-color: lightsalmon;
+    height: 64px;
+    width: 350px;
+}
+.right{
+    background-color:lightsalmon ;
+    height: 64px;
+    width: 345px;
+}
+.bottom{
+    display: flex;
+    justify-content: space-between;
+    height: 65px;
+    width: 700px;
+}
+.left2{
+    background-color: peachpuff;
+    height: 65px;
+    width:230px ;
+}
+.center{
+    background-color: peachpuff;
+    width: 230px;
+    height:65px ;
+}
+.right2{
+    background-color: peachpuff;
+    width: 232px;
+    height: 65px;
+}

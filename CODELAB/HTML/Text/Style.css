@@ -1,0 +1,31 @@
+/* Apply a basic style reset */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+.box{
+    width: 200px;
+    height: 100px;
+    background-color: brown;
+    margin: 150px;
+    padding: 120px;
+    border: 20px solid blue;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    line-height: 100px;
+    font-weight: bold;
+
+}
+.box p{
+    color: aqua;
+}
+/*positioning example */
+/* static*/
+.static{
+    /* No positioning properties are need here as static is the default */
+}
+/* relative */
+.relative

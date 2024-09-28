@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>My first web page</tittle>
+        <style>img{
+            width:100px
+        }
+            </style>
+    </head>
+    <body>
+        <img src="images/WA0008.jpg">
+     <p>@mumbodorothy3gmail.com</p> 
+     <p>l am eager and happy to learn html</p>  
+    </body>
+</html>

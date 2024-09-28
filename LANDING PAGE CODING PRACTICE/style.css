@@ -1,0 +1,64 @@
+body{
+  background-color: black;
+}
+.container{
+  height: 80px;
+  background-color: white;
+}
+.navbar{
+  padding-top: 27px;
+  text-align: center;
+}
+.nav{
+  margin: 10px;
+  padding: 20px;
+  text-decoration: none;
+  font-size: larger;
+  padding-top: 40px;;
+}
+.search{
+  text-align: right;
+  border-radius: 15px;
+  margin-left: 50px;
+  padding-left: 70px;
+  font-size: larger;
+}
+.image{
+  float: left;
+  margin-left: 15px;
+  color: black;
+}
+.bullets{
+  float: right;
+  font-size: small;
+  display: flex;
+  justify-content: right;
+  padding-top: 10px;
+}
+.color{
+  color: white;
+  margin-left: 50px;
+  margin-top: 90px;
+  font-size: large;
+
+}
+.color1{
+  color: aqua;
+}
+.color3{
+  font-size: small;
+}
+.seemore{
+  text-align: center;
+  border-radius: 10px;
+}
+.image4{
+  padding-top: 30px;
+  padding-left: 50px;
+}
+.image5{
+  float: left;
+}
+.vector{
+  padding-left: 850px;
+}
